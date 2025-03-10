@@ -4,6 +4,7 @@
 
 This project presents a hybrid data pipeline designed to integrate data repair, anomaly detection, pattern characterization, and predictive modeling. Built using Python, Perl, and R, the system leverages algorithms and deep learning models to ensure data integrity, consistency, and insightful analysis.
 
+This pipeline has been published in [https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2023.1107034/full]. If you are interested in applying or adapting this pipeline, please feel free to contact the author (ME) for further details.
 ## Core Capabilities:
 	•	Automated Data Repair: Handles missing values, inconsistencies, and structural errors.
 	•	Anomaly Detection: Identifies outliers using statistical and AI-driven approaches.
