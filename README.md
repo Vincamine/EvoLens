@@ -5,14 +5,14 @@ Overview
 This project presents a hybrid data pipeline designed to integrate data repair, anomaly detection, pattern characterization, and predictive modeling. Built using Python, Perl, and R, the system leverages algorithms and deep learning models to ensure data integrity, consistency, and insightful analysis.
 
 ⸻
-Core Capabilities:
+🚀 Core Capabilities:
 	•	Automated Data Repair: Handles missing values, inconsistencies, and structural errors.
 	•	Anomaly Detection: Identifies outliers using statistical and AI-driven approaches.
 	•	Pattern Characterization: Discovers meaningful structures within datasets.
 	•	Predictive Modeling: Leverages deep learning for trend forecasting.
 
 ⸻
-Tech Stack
+🚀 Tech Stack
 
 Component	Technology
 Programming Languages	Python, Perl, R
@@ -26,7 +26,7 @@ Visualization	Matplotlib, Seaborn, ggplot2
 
 
 ⸻
-Pipeline Workflow
+🚀 Pipeline Workflow
 
 Step 1: Data Ingestion & Cleaning
 
