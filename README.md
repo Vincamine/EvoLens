@@ -1,18 +1,17 @@
 # EvoLens
 
-Overview
+# Overview
 
 This project presents a hybrid data pipeline designed to integrate data repair, anomaly detection, pattern characterization, and predictive modeling. Built using Python, Perl, and R, the system leverages algorithms and deep learning models to ensure data integrity, consistency, and insightful analysis.
 
-⸻
-🚀 Core Capabilities:
+# Core Capabilities:
 	•	Automated Data Repair: Handles missing values, inconsistencies, and structural errors.
 	•	Anomaly Detection: Identifies outliers using statistical and AI-driven approaches.
 	•	Pattern Characterization: Discovers meaningful structures within datasets.
 	•	Predictive Modeling: Leverages deep learning for trend forecasting.
 
-⸻
-🚀 Tech Stack
+
+# Tech Stack
 
 Component	Technology
 Programming Languages	Python, Perl, R
@@ -24,9 +23,7 @@ Automation	Apache Airflow, Cron Jobs
 Visualization	Matplotlib, Seaborn, ggplot2
 
 
-
-⸻
-🚀 Pipeline Workflow
+# Pipeline Workflow
 
 Step 1: Data Ingestion & Cleaning
 
@@ -48,9 +45,8 @@ Step 4: Predictive Modeling
 ✔ Deploys deep learning models (LSTM, transformers) for trend forecasting.
 ✔ Implements probabilistic models for decision support.
 
-⸻
 
-🚀 Getting Started
+# Getting Started
 
 1️⃣ Installation
 
@@ -86,9 +82,7 @@ prediction:
   epochs: 100
 
 
-⸻
-
-🤝 Contributing
+# Contributing
 
 We welcome contributions! Please follow the conventional Git workflow:
 	1.	Fork the repository.
@@ -96,8 +90,7 @@ We welcome contributions! Please follow the conventional Git workflow:
 	3.	Commit changes (git commit -m "Add feature X").
 	4.	Push and create a Pull Request.
 
-⸻
 
-📜 License
+# License
 
 This project is licensed under the MIT License. See LICENSE for details.
