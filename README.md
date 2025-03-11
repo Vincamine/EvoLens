@@ -51,29 +51,37 @@ Step 4: Predictive Modeling
 
 1️⃣ Installation
 
-## Clone the repository
+Clone the repository
+```
 git clone https://github.com/Vincamine/EvoLens.git
 cd EvoLens
+```
 
-## Set up Python environment
+Set up Python environment
+```
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
+```
 
-## Run the pipeline
+Run the pipeline
+```
 python main.py
+```
 
 2️⃣ Sample Usage
 
+```
 from pipeline import DataPipeline
 
 pipeline = DataPipeline(data_source="data/sample.csv")
 pipeline.run()
+```
 
 3️⃣ Configuration
 
 Modify config.yaml to adjust processing parameters:
-
+```
 data_source: "data/sample.csv"
 anomaly_detection:
   method: "isolation_forest"
@@ -81,7 +89,7 @@ anomaly_detection:
 prediction:
   model: "lstm"
   epochs: 100
-
+```
 
 ## Contributing
 
